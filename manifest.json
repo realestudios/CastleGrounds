@@ -1,0 +1,9 @@
+{
+  "name": "CastleGrounds",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "Remake of Peach's Castle for LethalLevelLoader. In beta for playtesting purposes.",
+	"dependencies": [
+		"IAmBatby-LethalLevelLoader-1.2.4"
+	]
+}
