@@ -22,3 +22,6 @@ The original Castle Grounds runs on LethalExpansion, which has been deprecated a
 - IAmBatby for making all this possible
 
 - The Models Resource & The Textures Resource for the materials used (Thanks to user Booscaster for ripping the textures)
+
+
+Download at the Thunderstore! https://thunderstore.io/c/lethal-company/p/RealeStudios/CastleGrounds/
