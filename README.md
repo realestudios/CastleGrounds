@@ -1,22 +1,24 @@
-# Beta testing!
+Remake of Peaches_Castle for LethalLevelLoader! 
 
-Will be released to public soon. Currently testing for game breaking issues.
+The original Castle Grounds runs on LethalExpansion, which has been deprecated and no longer works alongside LethalLevelLoader.
 
-PeachesCastle runs on LethalExpansion, which is currently incompatible with LethalLevelLoader moons. I am attempting to remake the moon using LLL so it will work with my modpack, as my crew misses chaos at Castle Grounds. 
+## Features:
 
-I will soon upload the moon to GitHub for issue tracking.
+- Vanish Cap Under the Moat
 
-## Known issues:
+- Castle Courtyard
 
-- No water
+- Custom drop ship music
 
-- Gravity is broken for objects
+- Custom scrap
 
-- Weird texture issues. Some have black backgrounds rather than transparency
 
-- Proper price point not yet implemented. When scrap amount and difficulty changes, the travel price will increase
+## Credits
 
-- Outdoor enemies/creatures can't move
+- TeamBridget for the original idea
 
-- Weather weighting incorrect
+- AudioKnight for the incredible tutorial on making custom moons
 
+- IAmBatby for making all this possible
+
+- The Models Resource & The Textures Resource for the materials used (Thanks to user Booscaster for ripping the textures)
