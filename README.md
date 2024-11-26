@@ -8,9 +8,13 @@ The original Castle Grounds runs on LethalExpansion, which has been deprecated a
 
 - Castle Courtyard
 
+- Custom interior
+
 - Custom drop ship music
 
 - Custom scrap
+
+- Custom animations
 
 
 ## Credits
@@ -23,5 +27,4 @@ The original Castle Grounds runs on LethalExpansion, which has been deprecated a
 
 - The Models Resource & The Textures Resource for the materials used (Thanks to user Booscaster for ripping the textures)
 
-
-Download at the Thunderstore! https://thunderstore.io/c/lethal-company/p/RealeStudios/CastleGrounds/
+- The Lethal Company Modding Discord for feedback and contributions
