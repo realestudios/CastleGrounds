@@ -1,3 +1,175 @@
+### 5.3.1
+
+- Forgot to add new moon bundles in the previous update
+
+### 5.3.0 (broken)
+
+- Power Star now acts as an apparatus
+
+- Power Star now lights up correctly
+
+- New room has been added
+
+- Red ? Blocks spawn less frequently
+
+- LethalToolbox added as a dependency
+
+### 5.2.3
+
+- Righthand door in the main entrance no longer looks like shit
+
+### 5.2.2
+
+- Added missing AI Nodes in the interior
+
+- Added more scrap and hazard spawns in some rooms
+
+- Spike traps can now spawn again
+
+### 5.2.1
+
+- Optimization
+
+- Potential fix for culling issue in twisty stairwell
+
+### 5.2.0
+
+- Potential fix for culling issue in pipe room
+
+- Added two extra rooms in the end section to increase probability of the Clock Room spawning
+
+- Reverted basement hallways to their longer forms as that section generated strangely after shortening them
+
+### 5.1.0
+
+THANK YOU FOR 100K DOWNLOADS
+
+- Added infrastructure to get to the secret item without a jetpack
+
+- Changed color of secret item to distinguish it from vanilla item
+
+### 5.0.0
+
+- Added multiple new rooms and areas in the interior
+
+- Fixed bookshelves not protecting you from turrets
+
+- Made some hallways in the interior shorter to make it more feasible to clear it out
+
+- Reduced some bookshelf spawns that made it difficult to navigate
+
+- Added new insanity noise
+
+- Fixed raining indoors when entering the fire exits under the moat or in the courtyard
+
+##
+
+### 4.3.1
+
+- Rectified a mistake in the last upload, leading the "newest" version to have a month old version
+
+- Redesigned main entrance
+
+- Fixed breaker boxes not spawning
+
+- Fixed potential scrap spawn error
+
+### 4.3.0
+
+- Reversed a month's worth of work by accident
+
+### 4.2.1
+
+- I forgot to upload the changelog for the last update
+
+### 4.2.0
+
+Interior:
+
+- Adjusted scrap spawns
+
+- Added light fixtures to fire exits
+
+- Made interior generate a little bit smaller
+
+Exterior:
+
+- Sun now rises behind the ship so it's brighter in the morning
+
+- Added light fixtures to fire exits
+
+### 4.1.1
+
+- Potential fix for interior no longer spawning
+
+### 4.1.0
+
+- Scrap now spawns using LethalLevelLoader instead of LethalLib
+
+- Things are a little lighter again
+
+- Turned the volume down on some ambience noises and added new insanity noises
+
+- Made interior generation less linear
+
+- Added steps to main entrance stairway to reduce chance of getting stuck on the stairs
+
+### 4.0.0
+
+Introducing the Peach's Castle Interior!
+
+- Interior added
+
+- Ladder mesh fixed, gaps are no longer present
+
+- Structures leading to the Castle Courtyard have been cleaned up
+
+- Painting scrap has been added
+
+- Fun hidden item added around the exterior
+
+- Fixed the Bowser Key being over 100lbs
+
+- Proper Bowser Key drop sound
+
+##
+
+### 3.3.0
+
+- File size drastically reduced from 103mb to 26mb
+
+- Lighting and fog drastically altered
+
+- MIPS now lands in the correct orientation
+
+- Mario is a little bit smaller
+
+Bowser Key:
+
+- Makes better sound when dropped
+
+- Rests properly on ground
+
+- No longer flips when dropped
+
+### 3.2.1
+
+- Fixed 1up and Cap making you heavier after you drop them
+
+### 3.2.0
+
+- Added interact trigger to Yoshi
+
+- Changed it so the tiles and concrete won't spawn quicksand
+
+- Mario is no longer in T pose
+
+- All water is now animated
+
+### 3.1.3
+
+- Added GitHub page
+
 ### 3.1.2
 
 - Fixed missing sfx in some scrap
@@ -27,6 +199,8 @@
 - Custom scrap has been added! (Must have SM64Scrap dependency)
 
 - Dropship no longer freezes game for a half a second upon spawn
+
+##
 
 ### 2.2.0
 
