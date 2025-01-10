@@ -1,8 +1,63 @@
+### 5.6.4 
+
+- Changes from previous update, but they work this time
+
+### 5.6.3 (broken)
+
+- Added back the two songs missing from Mario's Boombox since the snow melted
+
+- Mario's Boombox will now remain on the ship after reloading a save
+
+### 5.6.2
+
+- Fixed error spam when landing on the moon
+
+- Fixed secret item being broken in air
+
+### 5.6.1
+
+- Fixed an error upon launch
+
+- Possibly fixed an error when landing on this moon twice
+
+### 5.6.0
+
+- You no longer go through water when entering the Vanish Cap Under The Moat area
+
+
+### 5.5.0
+
+- Snow and ice has melted
+
+- Planet prefab has been added (Check it out with ShipWindows by TestAccount666)
+
+- No longer depends on LethalToolbox
+
+- Star spins when dropped for everyone, rather than just the clients. It also now rotates above the floor
+
+- Light shined on Yoshi
+
+- Tiles in main entrance by sun carped now line up
+
+- Gap between righthand stairwell and the wall in the main entrance is closed
+
+### 5.4.1
+
+- Modified the drop ship lights
+
+### 5.4.0
+
+Castle Grounds has frozen over!
+
+- Winter overhaul
+
+- Secret item received a secret update
+
+### 5.3.2
+
+- Potential fix for items/light disappearing in the moat (Didn't work. Appears to be another mod causing this. Investigating)
+
 ### 5.3.1
-
-- Forgot to add new moon bundles in the previous update
-
-### 5.3.0 (broken)
 
 - Power Star now acts as an apparatus
 
@@ -13,6 +68,10 @@
 - Red ? Blocks spawn less frequently
 
 - LethalToolbox added as a dependency
+
+### 5.3.0 (broken)
+
+- Broken update. Changes are included in the 5.3.1 update
 
 ### 5.2.3
 
