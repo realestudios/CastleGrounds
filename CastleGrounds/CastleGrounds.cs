@@ -8,20 +8,25 @@ using Unity.Netcode;
 using UnityEngine;
 using LethalLib;
 using LethalLib.Modules;
+using BepInEx.Configuration;
 
 namespace CastleGrounds
 {
     [BepInPlugin(GUID, NAME, VERSION)]
+
     public class Plugin : BaseUnityPlugin
     {
         const string GUID = "CastleGrounds";
         const string NAME = "CastleGrounds";
-        const string VERSION = "5.3.0";
+        const string VERSION = "5.6.4";
 
         public static Plugin instance;
 
+
         void Awake()
         {
+
+
             instance = this;
 
             string assetDir = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), "castlegroundsscrap");
@@ -33,6 +38,13 @@ namespace CastleGrounds
             LethalLib.Modules.NetworkPrefabs.RegisterNetworkPrefab(CGStarAppItem.spawnPrefab);
             LethalLib.Modules.Utilities.FixMixerGroups(CGStarAppItem.spawnPrefab);
             Items.RegisterScrap(CGStarAppItem, 20, Levels.LevelTypes.None);
+
+            // Mario's Boombox (Currently defunct)
+
+           Item MariosBoombox = bundle.LoadAsset<Item>("Assets/LethalCompany/Mods/CastleGrounds/Scrap/MariosBoombox/MariosBoombox.asset");
+           LethalLib.Modules.NetworkPrefabs.RegisterNetworkPrefab(MariosBoombox.spawnPrefab);
+           LethalLib.Modules.Utilities.FixMixerGroups(MariosBoombox.spawnPrefab);
+           Items.RegisterItem(MariosBoombox);
 
             // Regular scrap disabled as they are now registered through LethalLevelLoader
 
@@ -124,5 +136,6 @@ namespace CastleGrounds
             Logger.LogInfo("Star Apparatus Active");
         }
     }
+
 
 }
