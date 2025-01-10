@@ -31,4 +31,20 @@ The original Castle Grounds runs on LethalExpansion, which has been deprecated a
 
 - The Lethal Company Modding Discord for feedback and contributions
 
+### Including:
+
+- random_axolotl: Boombox idea
+
+- Vanderx: Light fixture above the fire exits and general interior advice
+
+- ZigZag Awaka: General advice for the moon, scrap, and interior
+
+- Lodac77: Bug testing
+
+- LethalMatt: Bug testing
+
+- Chill Guy: Apparatus idea
+
+- Everyone else in the SM64 Moons thread for their support
+
 Download at the Thunderstore! https://thunderstore.io/c/lethal-company/p/RealeStudios/CastleGrounds/
